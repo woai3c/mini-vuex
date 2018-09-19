@@ -9,7 +9,7 @@
 * actions
 * plugins
 
-不支持模块
+不支持模块 具体用法请参考[vuex官方文档](https://vuex.vuejs.org/zh/)
 
 ### 使用方法
 ```
